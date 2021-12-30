@@ -1,4 +1,3 @@
-alert("Hello")
 
 const arr = [];
 
