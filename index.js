@@ -5,7 +5,7 @@ const content = /* html*/ `<div  id='wrapVideo'>
   <video onclick='playPause(this)' poster='./img/hqdefault.webp'
     data-bs-toggle="modal"
     data-bs-target="#exampleModal"
-    class='content' controls>
+    class='content' >
   <source src="./video/intro2.mp4" type="video/mp4">
   <source src="./video/intro2.mp4" type="video/ogg">
 Your browser does not support the video tag.
