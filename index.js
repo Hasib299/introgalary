@@ -46,3 +46,5 @@ function pause(video) {
   video.pause();
   video.load();
 }
+
+alert("Hello")
