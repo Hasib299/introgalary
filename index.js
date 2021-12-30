@@ -1,3 +1,5 @@
+alert("Hello")
+
 const arr = [];
 
 const content = /* html*/ `<div  id='wrapVideo'>
@@ -47,4 +49,3 @@ function pause(video) {
   video.load();
 }
 
-alert("Hello")
